@@ -1,0 +1,21 @@
+{
+  "name": "create-vue-route",
+  "version": "1.0.0",
+  "description": "A function to create a vuejs route with ease. Returns the object needed for the `routes` array.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njberman/create-vue-app.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue",
+    "vue-router"
+  ],
+  "author": "njberman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njberman/create-vue-app/issues"
+  },
+  "homepage": "https://github.com/njberman/create-vue-app#readme"
+}
