@@ -15,8 +15,24 @@
 
 ## Install
 
+Run this in your vuejs project:
+
 ```sh
 $ npm install create-vue-route
+```
+
+## Usage
+
+In `src/router/index.js`:
+
+```javascript
+import createRoute from 'create-vue-route';
+import Home from '../views/Home.vue'; // And any other views you have
+
+const routes = [
+  createRoute('/', 'Home', Home, { title: 'My Website | Home' })
+  // ^^ this will return an object to define a vuejs route.
+];
 ```
 
 ## Author
