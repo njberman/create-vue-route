@@ -16,7 +16,7 @@
 ## Install
 
 ```sh
-npm install
+$ npm install create-vue-route
 ```
 
 ## Author
@@ -33,6 +33,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [njberman](https://github.com/njberman).<br />
 This project is [ISC](https://github.com/njberman/create-vue-app/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
